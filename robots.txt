@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techbaggg.github.io/jagdishkarora.github.io/sitemap.xml
